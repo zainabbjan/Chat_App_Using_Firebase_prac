@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703397994314",
+    "project_id": "flutterchat-b714e",
+    "storage_bucket": "flutterchat-b714e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703397994314:android:89f5b908e39b1e0ae86bb3",
+        "android_client_info": {
+          "package_name": "com.example.udemy_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703397994314-mrs3nkvsmm7s87lfrbuh8umema1tkg0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYkebxx6LxLmH1B1_YgZOYkAoPyNrcUzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703397994314-mrs3nkvsmm7s87lfrbuh8umema1tkg0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
